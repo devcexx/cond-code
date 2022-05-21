@@ -1,5 +1,3 @@
-#![feature(external_doc)]
-#![doc(include = "../README.md")]
 #![feature(extend_one)]
 
 mod error;
